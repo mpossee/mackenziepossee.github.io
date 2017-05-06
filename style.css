@@ -1,0 +1,14 @@
+html {
+    background-color: rgba(138, 43, 226, 0.33);
+}
+
+#image {
+    width:75%;
+    display: block; 
+    margin: auto;
+}
+
+.name {
+    text-align: center;
+    font-family: cursive
+}
