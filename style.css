@@ -1,14 +1,9 @@
-html {
-   
-    background-color: #95d7dd;
-}
-dWeBGE:17
-25% {
-    background-color: #FFF5A5;
-}
-dWeBGE:18
-50% {
-    background-color: #FFD4DA;
+html@-webkit-keyframes gradshift {
+      0% {background-color: #95d7dd;}
+     25% {background-color: #FFF5A5;}
+     50% {background-color: #FFD4DA;}
+     75% {background-color: #99D2E4;}
+     100% {background-color: #D8CAB4;}
 }
 
 dWeBGE:19
