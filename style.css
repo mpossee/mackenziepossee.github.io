@@ -1,4 +1,4 @@
-html@-webkit-keyframes gradshift {
+@-webkit-keyframes gradshift {
       0% {background-color: #95d7dd;}
      25% {background-color: #FFF5A5;}
      50% {background-color: #FFD4DA;}
