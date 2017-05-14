@@ -5,15 +5,8 @@ html@-webkit-keyframes gradshift {
      75% {background-color: #99D2E4;}
      100% {background-color: #D8CAB4;}
 }
-
-dWeBGE:19
-75% {
-    background-color: #99D2E4;
-}
-dWeBGE:20
-100% {
-    background-color: #D8CAB4;
-
+body{
+  -webkit-animation: gradshift 10s linear infinite alternate;
 }
 
 #image {
